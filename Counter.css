@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+
+.Counter {
+    text-decoration: underline;
+    font-size: large;
+}
+
+button {
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px 20px;
+    color: black;
+    cursor: pointer;
+}
+
+.clear {
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+}
